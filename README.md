@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [sujal-shah.vercel.app](sujal-shah.vercel.app)
 
-- 💬 Ask me about **Front end , backend & Native development**
+- 💬 Ask me about **Front-End, Back-End, Native-Cross-platform development**
 
 - 📫 How to reach me **sujalharishshah@gmail.com**
 
